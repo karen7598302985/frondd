@@ -1,0 +1,57 @@
+
+body
+{
+    background-color: rgb(170, 230, 168);
+    background: rgb(250,247,247);
+    background: linear-gradient(90deg, rgba(250,247,247,1) 0%, rgba(127,207,252,1) 59%, rgba(250,252,140,1) 89%);
+
+}
+#menu{
+    background-color: #cceb9c !important;
+    height: 40px;
+
+}
+#textom{
+    color: rgb(0, 0, 0) !important;
+    font-family:"Latin Modern Roman" ;
+    margin-left: 465px;
+    }
+
+    #card1{
+        margin-left: 230px;
+        margin-top: 78px;
+    }
+    #card2{
+
+        margin-left: 230px;
+        margin-top: 78px;
+        
+    }
+
+.card-img-top{
+    width: 100px;
+}
+
+#img1{
+    width: 166px;
+    margin-left: 48px;
+}
+#img2{
+    width: 166px;
+    margin-left: 48px;
+}
+
+
+
+
+#table{
+    margin-top: 61px;
+width: 873px;
+margin-left: 202px;
+}
+
+#titulo{
+    margin-left: 538px;
+    margin-top: 28px;
+    font-family:"Latin Modern Roman" ;
+}
